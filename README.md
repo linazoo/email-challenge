@@ -1,4 +1,5 @@
 # email-challenge
+Link to completed challenge: https://linazoo.github.io/email-challenge/email2.html
 
 <h1>HTML Email - Basic Rules</h1>
 <h2>Notes:</h2>
